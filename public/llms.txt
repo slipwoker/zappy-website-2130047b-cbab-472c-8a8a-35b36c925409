@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# טפטים מעוצבים להורדה — Generative Engine Optimization Map
+
+> A עיצוב דיגיטלי business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://designer-wallpapers-download.zappy5.app
 גלו טפטים מעוצבים להורדה בחינם לנייד שלכם. עיצובים ייחודיים, רקעים מרהיבים וקולאז' מקצועי - הכל בהורדה חינמית!
 
 ### הקולקציות שלנו
-https://example.com/services
+https://designer-wallpapers-download.zappy5.app/services
 חקור את קולקציית רקעים מעוצבים לנייד שלנו. טפטים מעוצבים להורדה בחינם בסגנונות מגוונים - מינימליסטי, צבעוני, טבעי ועוד!
 
 ### אודות
-https://example.com/about
+https://designer-wallpapers-download.zappy5.app/about
 גלו את הסיפור מאחורי טפטים מעוצבים להורדה בחינם שלנו. אנחנו מתמחים ביצירת רקעים מעוצבים לנייד ייחודיים ואיכותיים.
 
 ### צור קשר
-https://example.com/contact
+https://designer-wallpapers-download.zappy5.app/contact
 יש שאלות על רקעים מעוצבים לנייד שלנו? צרו קשר ונשמח לעזור בכל נושא הקשור לטפטים מעוצבים להורדה בחינם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://designer-wallpapers-download.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://designer-wallpapers-download.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://designer-wallpapers-download.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About טפטים מעוצבים להורדה
+טפטים מעוצבים להורדה is a business in the עיצוב דיגיטלי industry.
+
+## Target Audience
+כל אחד עם טלפון
+
+## Industry
+עיצוב דיגיטלי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://designer-wallpapers-download.zappy5.app/sitemap.xml
+- **Robots.txt**: https://designer-wallpapers-download.zappy5.app/robots.txt
